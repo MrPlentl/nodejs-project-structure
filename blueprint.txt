@@ -1,0 +1,29 @@
+project-root/
+├── database/
+│   ├── connectors/
+│   ├── migrations/
+│   ├── models/
+│   └── seeders/
+├── logs/
+├── src/
+│   ├── config/
+│   │   └── constants/
+│   ├── lib/
+│   │   └── api/
+│   │       └── v1/
+│   │           ├── controllers/
+│   │           ├── middleware/
+│   │           ├── routes/
+│   │           └── specifications/
+│   │               ├── components/
+│   │               └── paths/
+│   ├── services/
+│   └── utils/
+├── storage/
+│   ├── database/
+│   ├── tmp/
+│   └── uploads/
+└── tests/
+    ├── integration/
+    ├── unit/
+    └── helpers/
